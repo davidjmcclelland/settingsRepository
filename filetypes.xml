@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="menu,js" type="JavaScript" />
+      <mapping ext="spec" type="JavaScript" />
+      <mapping ext="mp3" type="Native" />
+      <mapping pattern="panel-data-properties-helper" type="PLAIN_TEXT" />
+      <mapping pattern="tw-panel-data.js" type="PLAIN_TEXT" />
+      <mapping pattern="userExtensionPanelLayout.json" type="PLAIN_TEXT" />
+      <mapping pattern="data-helper.json" type="PLAIN_TEXT" />
+      <mapping pattern="saveChangesTabV2.json" type="PLAIN_TEXT" />
+      <mapping ext="scssc" type="SCSS" />
+      <removed_mapping pattern="function-parameters.js" approved="true" type="JavaScript" />
+      <mapping ext="njk" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
