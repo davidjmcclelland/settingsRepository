@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,9 +16,9 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.json</mask>
-    <mask>*.less</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.less</mask>
   </component>
 </application>
