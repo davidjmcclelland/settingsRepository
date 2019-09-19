@@ -18,4 +18,7 @@
     </option>
     <option name="cloneParentDir" value="C:\workspaces\davidjmcclelland" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/workspaces/twx" />
+  </component>
 </application>
