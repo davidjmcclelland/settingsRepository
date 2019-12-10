@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/davidjmcclelland/security.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:thingworx-ondemand/ext-googlewidgets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\workspaces\davidjmcclelland" />
+    <option name="cloneParentDir" value="C:\workspaces\twx" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
