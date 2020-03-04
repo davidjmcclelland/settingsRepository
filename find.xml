@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
@@ -13,5 +13,7 @@
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.css</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
