@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="jasmine" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://C:/workspaces/twx/tw-composer/thingworx-ui-platform/node_modules/jasmine-core/lib/jasmine-core.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://C:/workspaces/twx/tw-composer/thingworx-ui-platform/node_modules/jasmine-core/lib/jasmine-core.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
