@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="relevant" />
-    <option name="defaultScopeName" value="relevant" />
-    <option name="SEARCH_SCOPE" value="relevant" />
+    <option name="customScope" value="source" />
+    <option name="defaultScopeName" value="source" />
+    <option name="SEARCH_SCOPE" value="source" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
