@@ -1,19 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\thingworx-ui-platform\src\_legacy\plugins\twEntityBrowser.js'" />
+    <option name="defaultScopeName" value="File '...\thingworx-ui-platform\src\_legacy\plugins\twEntityBrowser.js'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\thingworx-ui-platform\src\_legacy\plugins\twEntityBrowser.js'" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*spec.js</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
   </component>
 </application>
